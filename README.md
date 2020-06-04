@@ -14,14 +14,14 @@ Generates a square matrix and writes to a csv. Takes 1 command line argument spe
 ```
 Output will be a csv file called "inputMatrix.csv"
 
-## Homework_2_parallel.c
+## Homework_5_parallel.c
 Performs matrix multiplication in parallel on the matrix stored in "inputMatrix.csv" using open MP
 ```bash
-./Homework_2_parallel
+./Homework_5_parallel
 ```
 
-## Homework_2_serial.c
+## Homework_5_serial.c
 Performs matrix multiplication on the matrix stored in "inputMatrix.csv"
 ```bash
-./Homework_2_serial.c
+./Homework_5_serial.c
 ```
